@@ -1,0 +1,242 @@
+body {
+	max-width: 1330px;
+	min-width: 1330px;
+}
+table.car {
+	max-width: 1330px;
+	min-width: 1330px;
+}
+h1.welcome {
+	color: red;
+}
+table.heading {
+	background-color: #bd135a;
+	border: white;
+}
+button.home {
+	background-color: #bd135a;
+	font-size: 100%;
+	color: white;
+	border: 0px;
+	width: 4em;
+	height: 2em;
+	font-family: Arial;
+	text-align: right;
+	cursor: pointer;
+}
+button.home:hover {
+	background-color: #174286
+}
+button.contact:hover {
+	background-color: #174286
+}
+button.contact {
+	background-color: #bd135a;
+	font-size: 100%;
+	color: white;
+	border: 0px;
+	width: 4em;
+	height: 2em;
+	font-family: Arial;
+	text-align: right;
+	cursor: pointer;
+}
+button.project_file:hover {
+	background-color: #174286
+}
+button.project_file {
+	background-color: #bd135a;
+	font-size: 100%;
+	color: white;
+	border: 0px;
+	width: 6em;
+	height: 2em;
+	font-family: Arial;
+	text-align: right;
+	cursor: pointer;
+}
+
+img.wagonr {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.santro {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.fortuner {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.scorpio {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.aspire {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.a3cabriolet {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.triber {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.nano {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.octavia {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.swift {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.elantra {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.bolero {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.city {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.z4roadster {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.elitei20 {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.amaze {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.cla {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.verna {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.xuv500 {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.ecosport {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.kwid {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.redigo {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.tiago {
+	margin-left: 50px;
+	margin-top: 50px;
+}
+img.aventador_svj_roadster {
+	margin-left: 50px;
+	margin-top: 50px;	
+}
+img.tigor {
+	margin-left: 50px;
+	margin-top: 50px;	
+}
+
+a.wagonr {
+	margin-left: 120px;
+}
+
+a.santro {
+	margin-left: 120px;
+}
+a.fortuner {
+	margin-left: 120px;
+}
+a.scorpio {
+	margin-left: 120px;
+}
+a.aspire {
+	margin-left: 120px;
+}
+a.a3cabriolet {
+	margin-left: 120px;
+}
+a.triber {
+	margin-left: 120px;
+}
+a.nano {
+	margin-left: 120px;
+}
+a.octavia {
+	margin-left: 120px;
+}
+a.swift {
+	margin-left: 120px;
+}
+a.elantra {
+	margin-left: 120px;
+}
+a.bolero {
+	margin-left: 120px;
+}
+a.city {
+	margin-left: 120px;
+}
+a.amaze {
+	margin-left: 120px;
+}
+a.z4roadster {
+	margin-left: 120px;
+}
+a.elitei20 {
+	margin-left: 120px;
+}
+a.cla {
+	margin-left: 120px;
+}
+a.verna {
+	margin-left: 120px;
+}
+a.xuv500 {
+	margin-left: 120px;
+}
+a.ecosport {
+	margin-left: 120px;
+}
+a.kwid {
+	margin-left: 120px;
+}
+a.redigo {
+	margin-left: 120px;
+}
+a.tiago {
+	margin-left: 120px;	
+}
+a.aventador_svj_roadster {
+	margin-left: 80px;
+}
+a.tigor {
+	margin-left: 120px;	
+}
+table.disclaimer {
+	background-color: #bd135a;
+}
+td.disclaimer {
+	color: white;
+	font-family: Arial;
+}
